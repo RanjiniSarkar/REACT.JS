@@ -1,0 +1,30 @@
+h1{ 
+    color:aqua;
+   padding-left: 530px;
+
+}
+.header *{
+    border : solid;
+} 
+
+p,h2{
+    text-align: center;
+}
+
+body{
+    background-color: navy
+}
+a:link{
+    color : #ffffff;
+}
+a:visited{
+    color : #ffffff;
+
+}
+.menu a{
+    margin-right: 530px;
+    
+}
+
+
+
